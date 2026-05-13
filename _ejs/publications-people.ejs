@@ -1,0 +1,47 @@
+```{=html}
+<div class="list quarto-listing-default">
+  <% for (const item of items) { %>
+
+  <div class="quarto-post image-left" <%= metadataAttrs(item) %>>
+
+    <div class="body">
+      <div class="no-anchor listing-pub-title listing-title">
+        <%= item.title %>
+      </div>
+
+      <div class="listing-pub-author listing-author">
+        <%= item.author %>
+      </div>
+
+      <div class="metadata-value listing-pub-journal listing-publication">
+        <% if (item.journ) { %>
+          <% if (item.url_source) { %>
+            <a href="<%- item.url_source %>" target="_blank" rel="noopener">
+              <i><%= item.journ %></i><% if (item.volume) { %>, <b><%= item.volume %></b><% } %><% if (item.issue && item.volume) { %>(<%= item.issue %>)<% } else if (item.issue) { %>, <b><%= item.issue %></b><% } %><% if (item.page) { %>, <%= item.page %><% } %><% if (item.year) { %> (<%= item.year %>)<% } %>
+            </a>
+          <% } else { %>
+            <i><%= item.journ %></i><% if (item.volume) { %>, <b><%= item.volume %></b><% } %><% if (item.issue && item.volume) { %>(<%= item.issue %>)<% } else if (item.issue) { %>, <b><%= item.issue %></b><% } %><% if (item.page) { %>, <%= item.page %><% } %><% if (item.year) { %> (<%= item.year %>)<% } %>
+          <% } %>
+        <% } %>
+      </div>
+    </div>
+
+    <div class="metadata">
+      <% if (item.haiku && item.haiku.length === 3) { %>
+        <div class="listing-pub-haiku">
+          <%= item.haiku[0] %> &bull; <%= item.haiku[1] %> &bull; <%= item.haiku[2] %>
+        </div>
+      <% } %>
+    </div>
+
+    <div class="thumbnail">
+      <% if (item.image) { %>
+        <img alt="<%= item.title %>" src="<%= item.image %>" class="thumbnail-image">
+      <% } %>
+    </div>
+
+  </div>
+
+  <% } %>
+</div>
+```

@@ -1,0 +1,14 @@
+```{=html}
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 0.5rem;">
+  <% for (const item of items) { %>
+
+  <div class="theme-band-item">
+    <% if (item.image) { %>
+      <img src="<%= item.image %>" alt="<%= item.title %>">
+    <% } %>
+    <div class="theme-band-title"><%= item.title %></div>
+  </div>
+
+  <% } %>
+</div>
+```

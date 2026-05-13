@@ -1,0 +1,27 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var brandContainer = document.querySelector('#quarto-header .navbar-brand-container');
+  var logo = document.querySelector('#quarto-header .navbar-brand-logo');
+
+  // Strip hrefs and pointer cursor from every <a> in the brand bar
+  if (brandContainer) {
+    brandContainer.querySelectorAll('a').forEach(function (link) {
+      link.removeAttribute('href');
+      link.style.cursor = 'default';
+    });
+    // Belt-and-suspenders: block any residual click from navigating
+    brandContainer.addEventListener('click', function (e) {
+      e.preventDefault();
+    });
+  }
+
+  // Make only the logo open Tel-Hai in a new tab
+  if (logo) {
+    logo.style.cursor = 'pointer';
+    logo.addEventListener('click', function (e) {
+      e.stopPropagation();
+      window.open('https://www.telhai.ac.il/en', '_blank', 'noopener,noreferrer');
+    });
+  }
+});
+</script>

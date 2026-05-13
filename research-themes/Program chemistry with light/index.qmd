@@ -1,0 +1,8 @@
+---
+title: "Program chemistry with light"
+heading: "Light-driven material chemistries"
+blurb: "Many photopolymerization platforms rely on synthetic monomers, chemically modified biopolymers, or initiator systems that are not well-suited to edible or physiologically relevant materials. We develop light-driven chemistries that expand the range of biological and biocompatible substrates that can be crosslinked, solidified, or patterned under controlled illumination."
+image: teaser.png
+pub_link: "publications/index.qmd#category=vat%20photopolymerization"
+date: 2021-05-15
+---

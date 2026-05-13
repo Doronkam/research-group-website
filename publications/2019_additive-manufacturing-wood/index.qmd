@@ -1,0 +1,41 @@
+﻿---
+title: "Additive Manufacturing of 3D Structures Composed of Wood Materials"
+date: 2019-06-11
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Michael Layani
+    orcid: 0000-0003-1015-7813
+    # affiliation: 
+  - name: Sheer Barkai Minerbi
+    # orcid: 
+    # affiliation: 
+  - name: Donna Orbaum
+    # orcid: 
+    # affiliation: 
+  - name: Shir Abrahami BenHarush
+    # orcid: 
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Advanced Materials Technologies"
+year: 2019
+volume: 4
+issue: 9
+page: 1900158
+categories: ["cellulose nanocrystals", "wood", "3D printing", "extrusion", "inkjet", "binder jet", "aerogels", "freeze casting" ]
+url_source: https://doi.org/10.1002/admt.201900158
+url_preprint: 
+doi: 10.1002/admt.201900158
+abstract: > 
+  3D objects composed of 100\% wood components are 3D printed utilizing wood flour microparticles dispersed in a matrix composed of cellulose nanocrystals and xyloglucan. In the printed object, a wood waste product is “glued” with extracted wood products, to be a substitute for pristine wood. 3D printing is used to maximize conversion of low value materials into final products that exhibit visual, textural, and physical properties of natural timber. Several 3D printing technologies are applied to achieve a wide range of densities, mechanical properties, colors, and morphologies as well as high thermal insulation. Furthermore, the 3D printing process enables predesigning of fiber layout in the printed wood, which enables control of shrinkage orientation.
+pub_number: 6
+image: featured.jpg
+
+
+---

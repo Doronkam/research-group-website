@@ -1,0 +1,31 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+---
+
+## Get in Touch
+
+**Lab:** Faculty of Sciences and Technology <br>
+Tel-Hai University, Israel, 1220800
+
+**Email:** [doronkam@telhai.ac.il](mailto:doronkam@telhai.ac.il)
+
+For inquiries about joining the lab, please visit the [Open Positions](positions.qmd) page and use the subject-line format specified for each role.
+
+## Location
+
+```{=html}
+<div style="margin-top: 1rem;">
+<iframe
+  src="https://maps.google.com/maps?q=Academic%20College%20of%20Tel-Hai%2C%20Eastern%20Campus&t=m&z=14&ie=UTF8&iwloc=&output=embed"
+  width="100%"
+  height="350"
+  style="border:0; border-radius: 4px;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</div>
+```

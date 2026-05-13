@@ -1,0 +1,35 @@
+﻿---
+title: "Surface Charge Influence on the Phase Separation and Viscosity of Cellulose Nanocrystals"
+date: 2018-04-03
+author:
+  - name: Tiffany Abitbol
+    orcid: 0000-0001-9782-3860
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Yael Levi-Kalisman
+    orcid: 0000-0002-2764-2738
+    # affiliation: 
+  - name: Derek G. Gray
+    orcid: 
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+journ: "Langmuir"
+year: 2018
+volume: 34
+issue: 13
+page: 3925-3933
+categories: ["cellulose nanocrystals", "phase separation", "surface charge" ]
+url_source: https://doi.org/10.1021/acs.langmuir.7b04127
+url_preprint: 
+doi: 10.1021/acs.langmuir.7b04127
+abstract: > 
+  A series of four cellulose nanocrystal ({CNC}) suspensions were prepared from bleached softwood kraft pulp using diﬀerent conditions of sulfuric acid hydrolysis. The {CNCs} were identical in size (95 nm in length × 5 nm in width) but had diﬀerent surface charges corresponding to the harshness of the hydrolysis conditions. Consequently, it was possible to isolate the eﬀects of surface charge on the selfassembly and viscosity of the {CNC} suspensions across surface charges ranging from 0.27\%S to 0.89\%S. The four suspensions (never-dried, free of added electrolyte) all underwent liquid crystalline phase separation, but the concentration onset for the emergence of the chiral nematic phase shifted to higher values with increasing surface charge. Similarly, suspension viscosity was also inﬂuenced by surface charge, with suspensions of lower surface charge {CNCs} more viscous and tending to gel at lower concentrations. The properties of the suspensions were interpreted in terms of the increase in ef fective diameter of the nanocrystals due to the surface electrostatic repulsion of the negative sulfate half-esters, as modiﬁed by the screening eﬀects of the H+ counterions in the suspensions. The results suggest that there is a threshold surface charge density (∼0.3\%S) above which eﬀective volume considerations are dominant across the concentration range relevant to liquid crystalline phase formation. Above this threshold value, phase separation occurs at the same eﬀective volume fraction of {CNCs} (∼10 vol \%), with a corresponding increase in critical concentration due to the decrease in eﬀective diameter that occurs with increasing surface charge. Below or near this threshold value, the formation of end-to-end aggregates may favor gelation and interfere with ordered phase formation.
+pub_number: 3
+image: featured.gif
+
+
+---

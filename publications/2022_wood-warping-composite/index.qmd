@@ -1,0 +1,41 @@
+---
+title: "Wood Warping Composite by 3D Printing"
+date: 2022-02-14
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Ido Levin
+    orcid: 0000-0003-1864-3832
+    # affiliation: 
+  - name: Yinnon Kutner
+    # orcid: 
+    # affiliation: 
+  - name: Omri Lanciano
+    # orcid: 
+    # affiliation: 
+  - name: Eran Sharon
+    orcid: 0000-0001-6311-1099
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Polymers"
+year: 2022
+volume: 14
+issue: 4
+page: 733
+categories: ["cellulose nanocrystals", "wood", "3D printing", "extrusion", "4D printing" ]
+url_source: https://doi.org/10.3390/polym14040733
+url_preprint: 
+doi: 10.3390/polym14040733
+abstract: > 
+  Wood warping is a phenomenon known as a deformation in wood that occurs when changes in moisture content cause an unevenly volumetric change due to ﬁber orientation. Here we present an investigation of wood warped objects that were fabricated by 3D printing. Similar to natural wood warping, water evaporation causes volume decrease of the printed object, but in contrast, the printing pathway pattern and ﬂow rate dictate the direction of the alignment and its intensity, all of which can be predesigned and affect the resulting structure after drying. The fabrication of the objects was performed by an extrusion-based 3D printing technique that enables the deposition of water-based inks into 3D objects. The printing ink was composed of 100\% wood-based materials, wood ﬂour, and plant-extracted natural binders cellulose nanocrystals, and xyloglucan, without the need for any additional synthetic resins. Two archetypal structures were printed: cylindrical structure and helices. In the former, we identiﬁed a new length scale that gauges the effect of gravity on the shape. In the latter, the structure exhibited a shape transition analogous to the opening of a seedpod, quantitatively reproducing theoretical predictions. Together, by carefully tuning the ﬂow rate and printing pathway, the morphology of the fully dried wooden objects can be controlled. Hence, it is possible to design the printing of wet objects that will form different ﬁnal 3D structures.
+pub_number: 8
+image: featured.png
+
+
+---

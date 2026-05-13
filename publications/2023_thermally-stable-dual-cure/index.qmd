@@ -1,0 +1,34 @@
+﻿---
+title: "3D Printing Thermally Stable High‐Performance Polymers Based on a Dual Curing Mechanism"
+date: 2023-06-11
+author:
+  - name: Iris Binyamin
+    orcid: 0000-0001-9682-5733
+    # affiliation: 
+  - name: Eitan Grossman
+    # orcid: 
+    # affiliation: 
+  - name: Matanel Gorodnitsky
+    # orcid: 
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Advanced Functional Materials"
+year: 2023
+volume: 33
+issue: 24
+page: 16812-16821
+categories: ["photopolymerization", "3D printing", "vat photopolymerization", "DLP", "dual cure", "epoxy"]
+url_source: https://doi.org/10.1002/adfm.202214368
+url_preprint: 
+doi: 10.1002/adfm.202214368
+abstract: > 
+  High‐performance polymers are an important class of materials that are used in challenging conditions, such as in aerospace applications. Until now, 3D printing based on stereolithography processes can not be performed due to a lack of suitable materials. There is report on new materials and printing compositions that enable 3D printing of objects having extremely high thermal resistance, with Tg of 283°C and excellent mechanical properties. The printing is performed by a low‐cost Digital Light Processing printer, and the formulation is based on a dual‐cure mechanism, photo, and thermal process. The main components are a molecule that has both epoxy and acrylate groups, alkylated melamine that enables a high degree of crosslinking, and a soluble precursor of silica. The resulting objects are made of hybrid materials, in which the silicon is present in the polymeric backbone and partly as silica enforcement particles.
+pub_number: 11
+image: featured.jpg
+
+---

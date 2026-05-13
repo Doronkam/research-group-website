@@ -1,0 +1,8 @@
+---
+title: "Manufacture bioinspired systems"
+heading: "Additive manufacturing of multi-material architectures"
+blurb: "Natural systems rarely rely on a single material. We create multi-material architectures inspired by the hierarchical organization of natural systems. Our additive manufacturing strategies combine distinct materials, chemistries, and structures within single objects to build edible, biomedical, and adaptive systems."
+image: teaser.png
+# pub_link: "publications/index.qmd#category=MAP"
+date: 2024-01-03
+---

@@ -1,0 +1,45 @@
+---
+title: &TITLE "Open Position!"
+categories: [postdoc]
+date: 2002-01-01   # pi | postdoc | phd | msc | alumni
+subtitle: "Postdoc"
+description: ""
+education: ""
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../publications/**/index.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: false
+  include:
+    author: *TITLE
+  fields: [image, title, author, journ, volume, issue, page, year, date, url_source, haiku, categories]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+---
+
+:::{#about}
+
+## Please see [OPEN POSITIONS](/positions.qmd) page
+
+<!-- ## Education -->
+<!-- {{< meta education >}} -->
+
+<br>
+
+:::
+
+<!-- ## Publications -->
+
+<!-- :::{#pubs} -->
+<!-- ::: -->
+
+
+

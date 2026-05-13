@@ -1,0 +1,35 @@
+﻿---
+title: "3D printing by stereolithography using thermal initiators"
+date: 2024-03-13
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Omri Rulf
+    # orcid: 
+    # affiliation: 
+  - name: Amir Reisinger
+    orcid: 0000-0003-2323-8620
+    # affiliation: 
+  - name: Rama Lieberman
+    orcid: 0000-0002-6899-465X
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Nature Communications"
+year: 2024
+volume: 15
+issue: 1
+page: 16812-16821
+categories: ["hydrogels", "3D printing", "SLA", "photopolymerization", "vat photopolymerization", "photothermal", "photoinitiator", "NIR"]
+url_source: https://www.nature.com/articles/s41467-024-46532-0
+url_preprint: 
+doi: 10.1038/s41467-024-46532-0
+abstract: > 
+  Additive manufacturing technologies based on stereolithography rely on initiating spatial photopolymerization by using photoinitiators activated by {UV}-visible light. Many applications requiring printing in water are limited since water-soluble photoinitiators are scarce, and their price is skyrocketing. On the contrary, thermal initiators are widely used in the chemical industry for polymerization processes due to their low cost and simplicity of initiation by heat at low temperatures. However, such initiators were never used in 3D printing technologies, such as vat photopolymerization stereolithography, since localizing the heat at specific printing voxels is impossible. Here we propose using a thermal initiator for 3D printing for localized polymerization processes by near-infrared and visible light irradiation without conventional photoinitiators. This is enabled by using gold nanorods or silver nanoparticles at very low concentrations as photothermal converters in aqueous and non-aqueous mediums. Our proof of concept demonstrates the fabrication of hydrogel and polymeric objects using stereolithography-based 3D printers, vat photopolymerization, and two-photon printing.
+pub_number: 13
+image: featured.png
+
+
+---

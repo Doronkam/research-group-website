@@ -1,0 +1,463 @@
+/*-- scss:defaults --*/
+
+// ============================================================================
+// Custom palette — source of truth.
+// $brand-green is sampled from assets/logos/tel-hai-logo-green-en.svg.
+// ============================================================================
+
+$brand-green: #42743B;     // Tel-Hai institutional green
+$sand:        #F6F5F3;
+$ink:         #1F2329;
+$stone:       #757883;
+$gold:        #E8E3D3;
+$navbar-dark: #1F2329;
+
+
+// ============================================================================
+// Bootstrap variable mappings.
+// ============================================================================
+
+$primary:           $brand-green;
+$secondary:         $stone;
+$light:             $sand;
+$dark:              $ink;
+
+$body-bg:           $sand;
+$body-color:        $ink;
+
+$link-color:        $brand-green;
+$link-hover-color:  darken($brand-green, 12%);
+$link-decoration:   none;
+
+$navbar-bg:         $navbar-dark;
+$navbar-fg:         #ffffff;
+$navbar-hl:         lighten($brand-green, 15%);   // navbar link hover
+
+$border-color:      $gold;
+
+
+// ============================================================================
+// Typography — Atkinson Hyperlegible body, Inter headings.
+// ============================================================================
+
+$font-family-sans-serif: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-family:   "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-weight:   600;
+$headings-line-height:   1.2;
+
+$body-font-size:    1.05rem;
+$line-height-base:  1.6;
+
+$h1-font-size:      2.5rem;
+$h2-font-size:      1.8rem;
+$h3-font-size:      1.4rem;
+$h4-font-size:      1.15rem;
+
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+// ============================================================================
+// Landing page — welcome headline & subheadline
+// ============================================================================
+
+.welcome-headline {
+  font-family: "Inter", sans-serif;
+  font-size: 3.1rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 1.05;
+  color: $ink;
+}
+
+.welcome-subheadline {
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.3;
+  color: $stone;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .welcome-headline    { font-size: 2.1rem; }
+  .welcome-subheadline { font-size: 1.15rem; }
+}
+
+.hero-image {
+  margin: 1.5rem 0 2rem;
+  border-radius: 4px;
+  width: 100%;
+  height: auto;
+}
+
+
+// ============================================================================
+// Team — grid card hover lift, image fit, typography
+// ============================================================================
+
+.listing-box {
+  border-radius: 4px;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.listing-box:hover {
+  border-color: $brand-green;
+  background-color: transparent;
+  box-shadow:
+    0 1px  2px rgba(0, 0, 0, 0.08),
+    0 2px  4px rgba(0, 0, 0, 0.08),
+    0 4px  8px rgba(0, 0, 0, 0.08),
+    0 8px 16px rgba(0, 0, 0, 0.08);
+}
+
+.listing-box-title {
+  max-width: 90%;
+  margin: 10px 0 6px;
+  color: $ink;
+  font-family: "Inter", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.listing-box-subtitle {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.5px;
+  color: $stone;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+}
+
+.listing-box-education {
+  color: $stone;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.listing-box-image {
+  object-fit: cover;
+  object-position: top;
+  width: 100%;
+  height: 240px;
+  background-color: $sand;
+}
+
+
+// ============================================================================
+// Publications listing rows — rendered by EJS templates
+// ============================================================================
+
+.listing-pub-title {
+  font-family: "Inter", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: $ink;
+  margin-bottom: 0.4rem;
+}
+
+.listing-pub-author {
+  color: $stone;
+  font-size: 0.85rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+}
+
+.listing-pub-journal {
+  color: $stone;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.listing-pub-number {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  color: $ink;
+  margin-bottom: 0.5rem;
+}
+
+.listing-pub-url {
+  font-size: 0.82rem;
+  margin-top: 4px;
+
+  a {
+    color: $brand-green;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: darken($brand-green, 12%);
+  }
+}
+
+// Optional haiku summary
+.listing-pub-haiku {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: $stone;
+  text-align: center;
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+.thumbnail img.thumbnail-image {
+  max-height: 300px !important;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  margin-left: auto !important;
+  display: block !important;
+}
+
+
+// ============================================================================
+// Open Positions callouts — left rail in brand green
+// ============================================================================
+
+.callout-position {
+  background-color: $sand;
+  border-left: 4px solid $brand-green;
+  padding: 1rem 1.25rem;
+  border-radius: 0 6px 6px 0;
+  margin-bottom: 1.5rem;
+}
+
+
+// ============================================================================
+// Footer
+// ============================================================================
+
+.nav-footer {
+  border-top: 1px solid $gold;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: $sand !important;
+  font-size: 0.85rem;
+  color: $stone;
+}
+
+.nav-footer img {
+  height: 1rem !important;
+  width: auto !important;
+  vertical-align: middle !important;
+}
+
+
+// ============================================================================
+// Navbar
+// ============================================================================
+
+.navbar-brand {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+.navbar-brand img {
+  max-height: 36px;
+  width: auto;
+  margin-right: 0.5rem;
+}
+
+
+// ============================================================================
+// Listing category chips
+// ============================================================================
+
+.listing-category {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  margin: 0.15rem 0.25rem 0.15rem 0;
+  background-color: $gold;
+  color: $ink;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.listing-category:hover {
+  background-color: $brand-green;
+  color: #ffffff;
+}
+
+
+// ============================================================================
+// Research page — alternating image/text rows (research.qmd flat page)
+// ============================================================================
+
+.research-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2.5rem;
+  margin-bottom: 4rem;
+  width: 100%;
+}
+
+.research-section:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.research-section-image {
+  flex: 0 0 40%;
+  max-width: 40%;
+}
+
+.research-section-image img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: contain;
+  border-radius: 4px;
+  display: block;
+}
+
+.research-section-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.research-section-heading {
+  font-family: "Inter", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: $ink;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.research-section-body p {
+  color: $stone;
+  font-size: 1rem;
+  line-height: 1.65;
+  margin-bottom: 1rem;
+}
+
+.research-section-link {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: $brand-green;
+}
+
+.research-section-link:hover {
+  color: darken($brand-green, 12%);
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .research-section,
+  .research-section:nth-child(even) {
+    flex-direction: column;
+  }
+  .research-section-image {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+
+// ============================================================================
+// Two-row navbar: row 1 = brand title (left) + logo (right); row 2 = nav links + search (right)
+// ============================================================================
+
+#quarto-header .navbar-container {
+  flex-wrap: wrap;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+// Row 1 — brand: text on left, logo on right
+#quarto-header .navbar-brand-container {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding: 0.4rem 1.5rem 0.4rem 0.5rem;
+  order: 1;
+  overflow: visible;
+}
+
+#quarto-header .navbar-brand {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  overflow: visible;
+}
+
+#quarto-header .navbar-brand-logo {
+  order: 2;   // logo moves to the right (second visually)
+  height: 38px;
+  width: auto;
+  max-width: none;
+  flex-shrink: 0;
+}
+
+#quarto-header .navbar-title {
+  order: 1;   // text stays on the left
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  cursor: default;
+  transition: color 0.15s ease;
+}
+
+#quarto-header .navbar-title:hover {
+  color: $brand-green !important;
+}
+
+// Row 2 — nav links (left) + search icon (right)
+#quarto-header .navbar-toggler {
+  order: 2;
+}
+
+#quarto-header .navbar-collapse {
+  order: 2;
+  flex-basis: auto !important;
+  flex-grow: 1;
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+
+#quarto-header .quarto-navbar-tools {
+  order: 2;
+}
+
+body.nav-fixed {
+  padding-top: 96px !important;
+}
+
+
+// ============================================================================
+// Publications listing — journal name is the hyperlink
+// ============================================================================
+
+.listing-pub-journal a {
+  color: $stone;
+  text-decoration: none;
+}
+
+.listing-pub-journal a:hover {
+  color: $brand-green;
+  text-decoration: underline;
+}
+
+
+// ============================================================================
+// Team profile pages (trestles about template) — hide category chips & date
+// ============================================================================
+
+.quarto-about-trestles .quarto-categories { display: none !important; }
+.quarto-about-trestles .quarto-title-meta  { display: none !important; }

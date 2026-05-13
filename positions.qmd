@@ -1,0 +1,117 @@
+---
+title: "Open Positions"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+Thank you for visiting! We are always looking for talented and motivated Postdocs, Ph.D., and M.Sc. students to join our research group. I am committed to developing the next generation of researchers who will work at the forefront of science. I take the professional development of the personnel in my laboratory very seriously and do everything I can to ensure successful career paths. My laboratory aims to create advanced materials and devices using state-of-the-art additive manufacturing technologies through a highly multidisciplinary approach.
+
+Don't hesitate to get in touch with me for further details.
+
+## Lab Manager
+
+::: {.callout-position}
+We are looking for a lab manager/engineer with a background in chemistry, biology, chemical/materials/mechanical engineering, and related fields.
+
+#### Responsibilities
+*	Will be involved in decision-making during lab construction.
+*	Responsible for a multidisciplinary lab: chemistry (polymer, colloid, formulation), biology (scaffolding for cell organization, differentiation, and tissue engineering), fabrication lab (additive manufacturing), and a characterization lab (mechanical, optical, nutritional, and thermal).
+*	Responsible for safety.
+*	Responsible for the fluent operation of the lab.
+*	Equipment maintenance.
+*	Guiding students.
+
+#### Qualifications (required)
+*	A positive, kind, and pleasant person.
+
+#### Highly appreciated (but optional) qualifications
+*	3D printing.
+*	Photopolymerization.
+*	Patient-specific implants and medical devices.
+*	Food-tech industry experience.
+
+Interested candidates can send an email directly to Doron with the subject line: '**Lab Manager Application: [Your Name]**' and include a CV.
+
+:::
+
+## Prospective Postdoctoral Fellows
+
+::: {.callout-position}
+**We are actively recruiting talented postdoctoral researchers for 2026-27**. Previous experience can take many forms, including vat photopolymerization, tissue engineering, micro- or nano-fabrication, food- or bio-tech. However, as with other positions, we are more interested in your readiness to learn new skills and take on new challenges.
+
+Interested candidates can contact Doron at any time to discuss potential opportunities.
+Please send an email with the subject line: '**Postdoc Application: [Your Name]**' and include:
+
+* A CV.
+* Brief description of your educational and research background.
+* Relevant publications.
+* Brief description of your interest in pursuing research opportunities in the lab.
+*  Brief description of your long-term research vision.
+
+:::
+
+
+## Prospective Ph.D. Students
+Looking for motivated graduate (Ph.D.) students for a multidisciplinary team to take the lead in research about:
+
+::: {.callout-position}
+### Additive manufacturing for food-tech
+Vat photopolymerization (VP), a technology that utilizes light to precisely construct three-dimensional structures, is a powerful tool for developing functional, structural, and living objects. In this project, digital light processing (DLP), a technology that employs planar light projection of sequentially sliced 2D images at on-demand wavelengths to selectively cure ink within a single vat, will be used for food-tech applications. See further inspiration in the following [publications](publications/index.qmd#category=vat%20photopolymerization).
+
+#### Skills to be learned/required:
+* Adjusting ink formulation for specific requirements such as surface tension, viscosity, evaporation rate, etc. Photopolymerizable ink development with broad knowledge of monomers/oligomers, photoinitiators, dyes, and inhibitors.
+* Developing and tailoring printing methods. From CAD design and hands-on in vat photopolymerization (DLP).
+* Characterization: Experimenting and analyzing data of quasistatic & dynamic mechanical properties, spectroscopy (IR, UV-VIS).
+* Python
+
+#### Relevant background:
+Background in nutrition and food science, biochemistry,  materials science, and chemical engineering is preferred, but not required. Primarily, we look for scientists who are eager to learn and take on new, exciting challenges. Interested students are welcome to contact Doron at any time for more information about the lab and potential projects.
+Please send an email with the subject line: '**Ph.D. Food Application: [Your Name]**' and include:
+
+* A CV.
+* Grade sheet.
+* Brief description of your educational and research background.
+* Brief description of your interest in pursuing a PhD in the lab.
+
+:::
+
+<br>
+
+::: {.callout-position}
+### Additive manufacturing for bio-tech
+Vat photopolymerization (VP), a technology that utilizes light to precisely construct three-dimensional structures, is a powerful tool for developing functional, structural, and living objects. In this project, multi-photon lithography (MPL), a technology that leverages ultrafast laser pulses to trigger localized multi-photon absorption in a point-by-point manner, achieving sub-micron resolution, will be used for bio-tech applications. See further inspiration in the following [publications](publications/index.qmd#category=MAP).
+
+#### Skills to be learned/required:
+* Adjusting ink formulation for specific requirements such as surface tension, viscosity, evaporation rate, etc. Photopolymerizable ink development with broad knowledge of monomers/oligomers, photoinitiators, dyes, and inhibitors.
+* Developing and tailoring printing methods. From CAD design and hands-on in vat photopolymerization (MPL).
+* Characterization: Experimenting and analyzing data of nanoindentation, spectroscopy (IR, UV-VIS).
+* Python
+
+#### Relevant background:
+A background in biology, biotechnology, pharmacy, or materials science is preferred but not required. Primarily, we look for scientists who are eager to learn and take on new, exciting challenges. Interested students are welcome to contact Doron at any time for more information about the lab and potential projects.
+Please send an email with the subject line: '**Ph.D. Bio Application: [Your Name]**' and include:
+
+* A CV.
+* Grade sheet.
+* Brief description of your educational and research background.
+* Brief description of your interest in pursuing a PhD in the lab.
+
+:::
+
+## Prospective M.Sc. Students
+
+::: {.callout-position}
+You have completed your undergraduate degree and are now wondering what to do. Joining a research lab is a unique experience that allows you to acquire specific skills, learn to conduct research and communicate your findings to the world, and enjoy the freedom of thought. The first step is to examine whether the lab activities correspond with your personal aspirations.
+
+Since our lab work is very visual, I recommend visiting the [publications](publications/index.qmd) page and exploring the different categories and previous work to stimulate your thoughts. Multiple M.Sc. projects are open, spanning basic science to applied research. Feel free to contact me for further details and to discuss potential opportunities.
+
+Please send an email with the subject line: '**M.Sc. Application: [Your Name]**' and include:
+
+*	A CV.
+*	Grade sheet.
+*	Brief description of your research interests.
+*	Brief description of your interest in pursuing research opportunities in the lab.
+
+:::

@@ -1,0 +1,44 @@
+﻿---
+title: "One-step double network hydrogels of photocurable monomers and bacterial cellulose fibers"
+date: 2022-10-15
+author:
+  - name: Soledad Roig-Sanchez
+    orcid: 0000-0002-7474-3769
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Nanthilde Malandain
+    orcid: 0000-0001-6447-2726
+    # affiliation: 
+  - name: Ela Sachyani-Keneth
+    orcid: 0000-0001-9090-7252
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+  - name: Anna Laromaine
+    orcid: 0000-0002-4764-0780
+    # affiliation: 
+  - name: Anna Roig
+    orcid: 0000-0001-6464-7573
+    # affiliation:     
+journ: "Carbohydrate Polymers"
+year: 2022
+volume: 294
+issue: 
+page: 119778
+categories: ["cellulose nanocrystals", "bacterial cellulose", "hydrogels", "photopolymerization", "dual cure"]
+url_source: https://doi.org/10.1016/j.carbpol.2022.119778
+url_preprint: 
+doi: 10.1016/j.carbpol.2022.119778
+abstract: > 
+  Soft-tissue replacements are challenging due to the stringent compliance requirements for the implanted materials in terms of biocompatibility, durability, high wear resistance, low friction, and water content. Acrylate hydrogels are worth considering as soft tissue implants as they can be photocurable and sustain customized shapes through 3D bioprinting. However, acrylate-based hydrogels present weak mechanical properties and significant dimensional changes when immersed in liquids. To address these obstacles, we fabricated double network ({DN}) hydrogels composed of polyacrylic acid ({PAA}) and bacterial cellulose nanofibers ({BCNFs}) by one fast {UV} photopolymerization step. {BCNFs}/{PAA} hydrogels with a 0.5 wt\% {BCNFs} content present an increased stiffness and a lower, non-{pH}-dependent swelling than {PAA} hydrogels or {PAA} hydrogels with cellulose nanocrystals. Besides, {BCNFs}/{PAA} hydrogels are biocompatible and can be frozen/thawed. Those characteristics endorse these hybrid hydrogels as potential candidates for vascular and cartilage tissue implants.
+pub_number: 9
+image: featured.jpg
+
+
+---

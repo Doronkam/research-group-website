@@ -1,0 +1,18 @@
+---
+title: "Team"
+page-layout: full
+format:
+  html:
+    toc: false
+listing:
+  id: team-listing
+  template: ../_ejs/people-box.ejs
+  contents:
+    - "*/index.qmd"
+    - "!_template/"
+  sort: "date asc"
+  fields: [title, subtitle, image, education, categories, date]
+---
+
+:::{#team-listing}
+:::

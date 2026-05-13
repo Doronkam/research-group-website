@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Doron Kam Lab"
+  site-url: https://doronkam.com
+  description: "Light-enabled manufacturing of biological materials. Doron Kam's research group at Tel-Hai University."
+  page-navigation: true
+  back-to-top-navigation: true
+
+  search: false
+
+  navbar:
+    title: "Doron Kam's research group"
+    logo: assets/logos/tel-hai-logo-green-en.svg
+    logo-href: "https://www.telhai.ac.il/en"
+    background: dark
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Team"
+        href: team/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Open Positions"
+        href: positions.qmd
+      - text: "Contact"
+        href: contact.qmd
+ 
+  page-footer:
+    background: light
+    left: Doron Kam's research group <br> Tel-Hai University
+    center: © 2026 &middot; Made with
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=40px}](https://quarto.org/)
+    right: קבוצת המחקר של דורון קם <br> אוניברסיטת תל-חי
+ 
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/custom.scss
+    toc: false
+    lightbox: true
+    include-in-header: assets/navbar-title-nolink.html

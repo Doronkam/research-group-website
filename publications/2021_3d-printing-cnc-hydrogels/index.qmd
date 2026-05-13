@@ -1,0 +1,41 @@
+﻿---
+title: "3D Printing of Cellulose Nanocrystal-Loaded Hydrogels through Rapid Fixation by Photopolymerization"
+date: 2021-06-01
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Ariel Braner
+    # orcid: 
+    # affiliation: 
+  - name: Avi Abouzglo
+    # orcid: 
+    # affiliation: 
+  - name: Liraz Larush
+    orcid: 0000-0002-8161-7904
+    # affiliation: 
+  - name: Annalisa Chiappone
+    orcid: 0000-0003-4651-1140
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Langmuir"
+year: 2021
+volume: 37
+issue: 21
+page: 16812-16821
+categories: ["cellulose nanocrystals", "hydrogels", "3D printing", "extrusion", "photopolymerization", "photoinitiator" ]
+url_source: https://doi.org/10.1021/acs.langmuir.1c00553
+url_preprint: 
+doi: 10.1021/acs.langmuir.1c00553
+abstract: > 
+  New ink compositions for direct ink writing ({DIW}) printing of hydrogels, combining superior rheological properties of cellulose nanocrystals ({CNCs}) and a water-compatible photoinitiator, are presented. Rapid ﬁxation was achieved by photopolymerization induced immediately after the printing of each layer by 365 nm light for 5 s, which overcame the common height limitation in {DIW} printing of hydrogels, and enabled the fabrication of objects with a high aspect ratio. {CNCs} imparted a unique rheological behavior, which was expressed by orders of magnitude diﬀerence in viscosity between low and high shear rates and in rapid high shear recovery, without compromising ink printability. Compared to the literature, the presented printing compositions enable the use of low photoinitiator concentrations at a very short build time, 6.25 s/mm, and are also curable by 405 nm light, which is favorable for maintaining viability in bioinks.
+pub_number: 7
+image: featured.jpg
+
+
+---

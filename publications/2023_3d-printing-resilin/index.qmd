@@ -1,0 +1,41 @@
+﻿---
+title: "3D Printing of Resilin in Water by Multiphoton Absorption Polymerization"
+date: 2023-09-26
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Aaron Olender
+    orcid: 0000-0001-9223-5138
+    # affiliation: 
+  - name: Amir Rudich
+    orcid: 0000-0002-8056-4580
+    # affiliation: 
+  - name: Yoav Kan‐Tor
+    orcid: 0000-0002-3011-9569
+    # affiliation: 
+  - name: Amnon Buxboim
+    orcid: 0000-0003-2412-9792
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Advanced Functional Materials"
+year: 2023
+volume: 33
+issue: 39
+page: 2210993
+categories: ["resilin", "hydrogels", "photopolymerization", "3D printing", "MAP", "vat photopolymerization", "proteins", ]
+url_source: https://doi.org/10.1002/adfm.202210993
+url_preprint: 
+doi: 10.1002/adfm.202210993
+abstract: > 
+  Resilin is an elastic rubber‐like protein found in the cuticles of insects. It incorporates outstanding properties of high resilience and fatigue lifetime, where kinetic energy storage is needed for biological functions such as flight and jumps. Since resilin is rich in tyrosine groups, localized photopolymerization is enabled due to the ability to introduce di‐tyrosine bonds by a ruthenium‐based photoinitiator. Using Multiphoton Absorption Polymerization 3D printing process, objects containing 100\% recombinant resilin protein are printed in water at a submicron length scale. Consequently, protein‐based hydrogels with complex structures are printed using space positioning voxel polymerization. The objects are characterized by dynamic mechanical analysis using nanoindentation. Printing parameters such as printing speed and laser power are found to enable tuning the mechanical properties of the printed objects. The printed objects are soft and resilient, similar to native resilin, while presenting the highest resolution of a structure made entirely of a protein and better mechanical properties of common hydrogels and poly(dimethylsiloxane). Moreover, topography and mechanical properties enable cell growth and alignment without cell adhesion primers, thus facilitating biological applications. The fabrication of 3D resilin‐based hydrogel will open the way for potential applications based on biomimicking and in creating new functional objects.
+pub_number: 10
+image: featured.png
+
+
+---

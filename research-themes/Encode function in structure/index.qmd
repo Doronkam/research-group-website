@@ -1,0 +1,9 @@
+---
+title: "Encode function in structure"
+heading: "Programmable structure-function relationships"
+blurb: "Material performance is governed by chemistry and structure across scales. We study how manufacturing parameters determine material architecture, and how this architecture controls properties such as mechanics, wettability, degradation, mass transport, optics, texture, and more."
+image: teaser.png
+pub_link: "publications/index.qmd#category=4D printing"
+# pub_link: "publications/index.qmd#category=vat%20photopolymerization"
+date: 2024-01-01
+---

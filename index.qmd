@@ -1,0 +1,69 @@
+---
+title: "Doron Kam's research group"
+description: "Light-enabled manufacturing of biological materials."
+css: assets/home.css
+listing:
+  # - id: recent-pubs
+  #   template: _ejs/publications.ejs
+  #   contents:
+  #     - "publications/*/index.qmd"
+  #     - "!publications/_template/"
+  #   sort: "pub_number desc"
+  #   max-items: 3
+  #   fields: [image, pub_number, title, author, journ, volume, issue, page, year, date, url_source, haiku, categories]
+  - id: home-research-tiles
+    template: _ejs/research-home.ejs
+    contents: "research-themes/*/index.qmd"
+    sort: "date asc"
+    fields: [image, title, date]
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.welcome-headline}
+<br>
+Doron Kam's research group
+:::
+
+<!-- ::: {.welcome-subheadline} -->
+<!-- Light-enabled manufacturing of biological materials -->
+<!-- ::: -->
+
+<!-- ![](assets/img/hero.jpg){fig-alt="Modern materials-science laboratory bench" .hero-image} -->
+
+::: {.home-section-heading}
+<!-- Mission -->
+:::
+
+We use biological and biocompatible building blocks and advanced fabrication methods to program how materials form, organize, and behave across scales. Rather than treating manufacturing solely as a means to make shapes, we use it to encode function. We create programmable materials for future applications in food, medical, and sustainable technologies.
+
+**We are a new research group at Tel-Hai University, launching in October 2026**
+
+
+::: {.home-section-heading}
+Research directions
+:::
+
+:::{#home-research-tiles}
+:::
+
+::: {.theme-band-learn-more}
+[Learn more → Research](research.qmd)
+:::
+
+<!-- ::: {.home-section-heading} -->
+<!-- Recent publications -->
+<!-- ::: -->
+
+<!-- :::{#recent-pubs} -->
+<!-- ::: -->
+
+<!-- [See all publications →](publications/index.qmd) -->
+
+::: {.home-section-heading}
+Join us
+:::
+
+We are actively recruiting motivated postdocs, Ph.D. students, and M.Sc. students. Read more on the [Open Positions](positions.qmd) page.

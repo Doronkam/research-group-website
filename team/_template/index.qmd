@@ -1,0 +1,41 @@
+---
+title: &TITLE "First Last"
+categories: [phd]   # pi | postdoc | phd | msc | alumni
+subtitle: "Role Title"
+description: ""
+education: "Degree | Institution | Year"
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../publications/**/index.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: false
+  include:
+    author: *TITLE
+  fields: [image, title, author, journ, volume, issue, page, year, date, url_source, haiku, categories]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+Bio text here.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## Publications
+
+:::{#pubs}
+:::

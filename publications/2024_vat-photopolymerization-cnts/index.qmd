@@ -1,0 +1,35 @@
+﻿---
+title: "Vat photopolymerization printing by thermal polymerisation utilising carbon nanotubes as photothermal converters"
+date: 2024-12-31
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Rama Lieberman
+    orcid: 0000-0002-6899-465X
+    # affiliation:
+  - name: Noa Trink
+    orcid: 0009-0007-0139-5074
+    # affiliation: 
+  - name: Omri Rulf
+    # orcid: 
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Virtual and Physical Prototyping"
+year: 2024
+volume: 19
+issue: 1
+page: e2391480
+categories: ["hydrogels", "3D printing", "SLA", "photopolymerization", "vat photopolymerization", "photothermal", "photoinitiator", "NIR"]
+url_source: https://doi.org/10.1080/17452759.2024.2391480
+url_preprint: 
+doi: 10.1080/17452759.2024.2391480
+abstract: > 
+  Traditional printing compositions for stereolithography ({SLA}), a vat photopolymerization technology, rely on light-sensitive photoinitiators ({PIs}) to initiate cross-linking reactions. Here, we propose a new approach for printing in which the polymerisation occurs locally with carbon nanotubes ({CNTs}), which function as photothermal converters combined with low-cost thermal initiators ({TIs}). The irradiation is performed at near-infrared ({NIR}), which enables deep light penetration, and polymerisation in black compositions, thus increasing the printing throughput. We demonstrate the control over polymerisation kinetics, printing resolution and cure depth, achieving very large printable layer thickness. The {CNT} photoconvertors can be used in both nonaqueous and aqueous systems, while the latter addresses the limited availability of water-soluble {PIs} for printing in water. The {CNT} enables dual use, initiating polymerisation and printing composite materials. This approach presents an advancement in {SLA}-based technologies, avoiding the use of conventional {PIs} and thus broadening the scope of 3D printing applications.
+pub_number: 14
+image: featured.jpg
+
+
+---

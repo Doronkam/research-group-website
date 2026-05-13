@@ -1,0 +1,30 @@
+---
+title: "Publications"
+listing:
+  id: pubs
+  template: ../_ejs/publications.ejs
+  contents:
+    - "*/index.qmd"
+    - "!_template/"
+  sort: "pub_number desc"
+  sort-ui: false
+  page-size: 30
+  filter-ui: true
+  categories: true
+  fields: [image, pub_number, title, author, journ, volume, issue, page, year, date, url_source, haiku, categories]
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+## Journal Covers
+
+::: {layout-ncol=3}
+![](covers/2023-010-AFM.jpg){group="covers" height=200px}
+:::
+
+## Publications
+
+:::{#pubs}
+:::

@@ -1,0 +1,38 @@
+﻿---
+title: "Nanoscale electromechanical properties of template-assisted hierarchical self-assembled cellulose nanofibers"
+date: 2018-08-30
+author:
+  - name: Yonatan Calahorra
+    orcid: 0000-0001-9530-1006
+    # affiliation: 
+  - name: Anuja Datta
+    orcid: 0000-0002-4411-8639
+    # affiliation: 
+  - name: James Famelton
+    orcid: 0000-0002-8824-2842
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+  - name: Sohini Kar-Narayan
+    orcid: 0000-0002-8151-1616 
+    # affiliation: 
+journ: "Nanoscale"
+year: 2018
+volume: 10
+issue: 35
+page: 16812-16821
+categories: ["cellulose nanocrystals", "piezoelectric"]
+url_source: https://doi.org/10.1039/C8NR04967J
+url_preprint: 
+doi: 10.1039/C8NR04967J
+abstract: > 
+  Cellulose, a major constituent of our natural environment and a structured biodegradable biopolymer, has been shown to exhibit shear piezoelectricity with potential applications in energy harvesters, biomedical sensors, electro-active displays and actuators. In this regard, a high-aspect ratio nanofiber geometry is particularly attractive as flexing or bending will likely produce a larger piezoelectric response as compared to axial deformation in this material. Here we report self-assembled cellulose nanofibers ({SA}-{CNFs}) fabricated using a template-wetting process, whereby parent cellulose nanocrystals ({CNCs}) introduced into a nanoporous template assemble to form rod-like cellulose clusters, which then assemble into {SA}-{CNFs}. Annealed {SA}-{CNFs} were found to exhibit an anisotropic shear piezoelectric response as directly measured using non-destructive piezo-response force microscopy ({ND}-{PFM}). We interpret these results in light of the distinct hierarchical structure in our template-grown {SA}-{CNFs} as revealed by scanning electron microscopy ({SEM}) and high resolution transmission electron microscopy ({TEM}).
+pub_number: 2
+image: featured.gif
+
+
+---

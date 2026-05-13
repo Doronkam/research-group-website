@@ -1,0 +1,23 @@
+---
+title: "Research"
+# subtitle: 
+page-layout: full
+listing:
+  id: research-themes
+  template: _ejs/research.ejs
+  contents: "research-themes/*/index.qmd"
+  sort: "date asc"
+  fields: [image, title, heading, blurb, pub_link, date]
+format:
+  html:
+    toc: false
+---
+
+Biological systems achieve remarkable function by organizing chemistry and structure across scales. Our group develops light-guided additive manufacturing strategies that bring this principle to biological, edible, and biocompatible materials. We use illumination not only to shape materials, but also to control the chemistries and architectures from which function emerges. Our goal is to manufacture programmable matter, materials whose composition, structure, and behavior are encoded during fabrication for applications in food, medicine, soft materials, and bioinspired devices.
+
+
+<br>
+
+
+:::{#research-themes}
+:::

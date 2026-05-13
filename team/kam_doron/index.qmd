@@ -1,0 +1,73 @@
+---
+title: &TITLE "Doron Kam"
+categories: [pi]
+date: 2000-01-01
+last: Kam
+first: Doron
+subtitle: "Senior Lecturer (Assistant Prof.)"
+description: ""
+affiliation: Tel-Hai University
+education:
+  - "Ph.D. Plant Science & Chemistry | The Hebrew University of Jerusalem | 2022 <br> M.Sc. Plant Science | The Hebrew University of Jerusalem | 2016 <br> B.Sc. Physics | The Hebrew University of Jerusalem | 2013"
+image: avatar.jpg
+# listing:
+#   id: pubs
+#   template: ../../_ejs/publications-people.ejs
+#   contents:
+#     - "../../publications/**/index.qmd"
+#     - "!../../publications/_template/"
+#   sort: "pub_number desc"
+#   filter-ui: true
+#   include:
+#     author: *TITLE
+#   fields: [image, title, author, journ, volume, issue, page, year, date, url_source, haiku, categories]
+page-layout: full
+resources:
+  - cv_kam_doron.pdf
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:doronkam@telhai.ac.il
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/doron-kam-ba5b6b10a/
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=i-toGg8AAAAJ&hl=en
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-5119-965X
+    - icon: file-earmark-text
+      text: Vitae
+      href: team/kam_doron/cv_kam_doron.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/Doronkam
+    - text: "{{< ai figshare >}} figshare"
+      href: https://figshare.com/authors/Doron_Kam/7387052
+---
+
+<hr>
+
+:::{#about}
+
+I'm a faculty member at Tel-Hai University's Faculty of Sciences and Technology. My research combines interdisciplinary experimental science, materials chemistry, and additive manufacturing.
+
+I am drawn to problems that sit at the intersection of fields. I like hearing about scientific challenges, reframing them, and finding experimental directions that are not always obvious at first glance. This way of thinking has shaped much of my work, from bioinspired materials to light-based 3D printing.
+
+I completed my Ph.D. at the Hebrew University of Jerusalem, where I was fortunate to be advised by [Prof. Oded Shoseyov](https://odedshoseyov-lab.huji.ac.il/) and [Prof. Shlomo Magdassi](https://magdassi.huji.ac.il/). I then carried out postdoctoral research in [Prof. Alon Gorodetsky](https://gorodetskygroup.org/)'s group at the University of California, Irvine.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+<!-- ## Group Publications -->
+
+<!-- :::{#pubs} -->
+<!-- ::: -->

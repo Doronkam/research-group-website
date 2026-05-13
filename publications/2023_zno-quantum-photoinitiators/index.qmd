@@ -1,0 +1,47 @@
+﻿---
+title: "ZnO Quantum Photoinitiators as an All-in-One Solution for Multifunctional Photopolymer Nanocomposites"
+date: 2023-10-24
+author:
+  - name: Tom Naor
+    orcid: 0000-0003-3904-3887
+    # affiliation: 
+  - name: Shira Gigi
+    # orcid: 
+    # affiliation: 
+  - name: Nir Waiskopf
+    # orcid: 
+    # affiliation: 
+  - name: Gila Jacobi
+    # orcid: 
+    # affiliation: 
+  - name: Sivan Shoshani
+    # orcid: 
+    # affiliation:   
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+  - name: Ehud Banin
+    orcid: 0000-0003-2974-5877 
+    # affiliation: 
+  - name: Uri Banin
+    orcid: 0000-0003-1698-2128 
+    # affiliation:     
+journ: "ACS Nano"
+year: 2023
+volume: 17
+issue: 20
+page: 16812-16821
+categories: ["hydrogels", "3D printing", "DLP", "photopolymerization", "vat photopolymerization", "antimicrobial", "photoinitiator"]
+url_source: https://doi.org/10.1021/acsnano.3c06518
+url_preprint: 
+doi: 10.1021/acsnano.3c06518
+abstract: > 
+  Nanocomposites are constructed from a matrix material combined with dispersed nanosized filler particles. Such a combination yields a powerful ability to tailor the desired mechanical, optical, electrical, thermodynamic, and antimicrobial material properties. Colloidal semiconductor nanocrystals ({SCNCs}) are exciting potential fillers, as they display size-, shape-, and composition-controlled properties and are easily embedded in diverse matrices. Here we present their role as quantum photoinitiators ({QPIs}) in acrylate-based polymer, where they act as a catalytic radical initiator and endow the system with mechanical, photocatalytic, and antimicrobial properties. By utilizing {ZnO} nanorods ({NRs}) as {QPIs}, we were able to increase the tensile strength and elongation at break of poly(ethylene glycol) diacrylate ({PEGDA}) hydrogels by up to 85\%, unlike the use of the same {ZnO} {NRs} acting merely as fillers. Simultaneously, we endowed the {PEGDA} hydrogels with post-polymerization photocatalytic and antimicrobial activities and showed their ability to decompose methylene blue and significantly eradicate antibiotic-resistant bacteria and viral pathogens. Moreover, we demonstrate two fabrication showcase methods, traditional molding and digital light processing printing, that can yield hydrogels with complex architectures. These results position {SCNC}-based systems as promising candidates to act as all-in-one photoinitiators and fillers in nanocomposites for diverse biomedical applications, where specific and purpose-oriented characteristics are required.
+pub_number: 12
+image: featured.gif
+
+
+---

@@ -1,0 +1,32 @@
+﻿---
+title: "Highly Charged Cellulose Nanocrystals Applied as A Water Treatment Flocculant"
+date: 2019-02-15
+author:
+  - name: Dana Morantes
+    orcid: 
+    affiliation:
+  - name: Efrén Muñoz
+    orcid: 0000-0002-8517-1882
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+journ: "Nanomaterials"
+year: 2019
+volume: 9
+issue: 2
+page: 272
+categories: ["cellulose nanocrystals", "flocculant"]
+url_source: https://doi.org/10.3390/nano9020272
+url_preprint: 
+doi: 10.3390/nano9020272
+abstract: > 
+  Various cellulosic materials have replaced petroleum-derived polymers, offering natural and sustainable alternatives. Among them, cellulose nanocrystals ({CNC}) feature an easily modiﬁable surface, enabling the exploration of a wide spectrum of applications. In this work, the quaternary agent 3-chloro-2-hydroxypropyltrimethylammonium chloride ({CHPTAC}) was used as a cationic graft on {CNCs}, to form a novel water treatment ﬂocculant. The resulting material was chemically and structurally characterized by the determination of Zeta potential; degree of substitution by elemental analysis; hydrodynamic size by dynamic light scattering ({DLS}) and infrared spectroscopy with Fourier Transform Infrared ({FT}-{IR}); and X-ray diffraction ({XRD}). The ﬂocculation capacity of cationic cellulose nanocrystals ({CNC}-{EPTMAC}) was evaluated in a jar test ﬁlled with an 0.25 wt.\% silica ({SiO}2) suspension. {CNC}-{EPTMAC} proved to be an effective water treatment ﬂocculant, reducing turbidity by up to 99.7\% at a concentration of only 2 ppm. This work demonstrates a natural and environmentally sustainable alternative to homologous commercial ﬂocculants.
+pub_number: 4
+image: featured.png
+
+
+---

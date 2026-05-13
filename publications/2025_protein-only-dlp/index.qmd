@@ -1,0 +1,47 @@
+﻿---
+title: "Digital light processing printing of non-modified protein-only compositions"
+date: 2025-02-01
+author:
+  - name: Ayelet Bunin
+    orcid: 0009-0000-3418-7254
+    # affiliation:
+  - name: Orit Harari-Steinberg
+    # orcid: 
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Tatyana Kuperman
+    # orcid: 
+    # affiliation: 
+  - name: Moran Friedman-Gohas
+    # orcid: 
+    # affiliation: 
+  - name: Bruria Shalmon
+    # orcid: 
+    # affiliation: 
+  - name: Liraz Larush
+    orcid: 0000-0002-8161-7904
+    # affiliation: 
+  - name: Shay I. Duvdevani
+    orcid: 0000-0002-9412-3209
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+journ: "Materials Today Bio"
+year: 2025
+volume: 30
+issue: 
+page: 16812-16821
+categories: ["hydrogels", "3D printing", "DLP", "photopolymerization", "vat photopolymerization", "proteins", "gelatin"]
+url_source: https://doi.org/10.1016/j.mtbio.2024.101384
+url_preprint: 
+doi: 10.1016/j.mtbio.2024.101384
+abstract: > 
+  This study explores the utilization of digital light processing ({DLP}) printing to fabricate complex structures using native gelatin as the sole structural component for applications in biological implants. Unlike approaches relying on synthetic materials or chemically modified biopolymers, this research harnesses the inherent properties of gelatin to create biocompatible structures. The printing process is based on a crosslinking mechanism using a dityrosine formation initiated by visible light irradiation. Formulations containing gelatin were found to be printable at the maximum documented concentration of 30 wt\%, thus allowing the fabrication of overhanging objects and open embedded. Cell adhesion and growth onto and within the gelatin-based 3D constructs were evaluated by examining two implant fabrication techniques: (1) cell seeding onto the printed scaffold and (2) printing compositions that contain cells (cell-laden). The preliminary biological experiments indicate that both the cell-seeding and cell-laden strategies enable making 3D cultures of chondrocytes within the gelatin constructs. The mechanical properties of the gelatin scaffolds have a compressive modulus akin to soft tissues, thus enabling the growth and proliferation of cells, and later degrade as the cells differentiate and form a grown cartilage. This study underscores the potential of utilizing non-modified protein-only bioinks in {DLP} printing to produce intricate 3D objects with high fidelity, paving the way for advancements in regenerative tissue engineering.
+pub_number: 15
+image: featured.jpg
+
+
+---

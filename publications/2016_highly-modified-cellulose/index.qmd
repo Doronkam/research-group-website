@@ -1,0 +1,40 @@
+﻿---
+title: "Highly Modified Cellulose Nanocrystals and Formation of Epoxy-Nanocrystalline Cellulose (CNC) Nanocomposites"
+date: 2016-10-05
+author:
+  - name: Eldho Abraham
+    orcid: 0000-0003-3506-7590
+    # affiliation: 
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Yuval Nevo
+    orcid: 0000-0001-6757-5675
+    # affiliation: 
+  - name: Rikard Slattegard
+    # orcid: 
+    # affiliation: 
+  - name: Amit Rivkin
+    # orcid: 
+    # affiliation: 
+  - name: Shaul Lapidot
+    # orcid: 
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+categories: ["cellulose nanocrystals", "epoxy"]
+url_source: https://doi.org/10.1021/acsami.6b09852
+url_preprint: 
+doi: 10.1021/acsami.6b09852
+journ: "ACS Applied Materials & Interfaces"
+volume: 8
+issue: 41
+page: 28086-28095
+year: 2016
+abstract: > 
+  This work presents an environmentally friendly, iodine-catalyzed chemical modiﬁcation method to generate highly hydrophobic, optically active nanocrystalline cellulose ({CNC}). The high degree of ester substitution ({DS} = 2.18), hydrophobicity, crystalline behavior, and optical activity of the generated acetylated {CNC} (Ac-{CNC}) were quantiﬁed by {TEM}, {FTIR}, solid 13C {NMR}, contact angle, {XRD}, and {POM} analyses. Ac-{CNC} possesses substantial enhancement in thermal stability (16.8\%) and forms thin ﬁlms with an interlayer distance of 50−150 nm, presenting cavities suitable for entrapping nanoand microparticles. Generated Ac-{CNC} proved to be an eﬀective reinforcing agent in hydrophobic polymer matrices for fabricating high performance nanocomposites. When integrated at a very low weight percentage (0.5\%) in an epoxy matrix, {AcCNC} provided for a 73\% increase in tensile strength and a 98\% increase in modulus, demonstrating its remarkable reinforcing potential and eﬀective stress transfer behavior. The method of modiﬁcation and the unique properties of the modiﬁed {CNC} (hydrophobicity, crystallinity, reinforcing ability, and optical activity) render them a novel bionanomaterial for a range of multipurpose applications.
+pub_number: 1
+image: featured.png
+
+---

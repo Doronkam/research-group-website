@@ -1,0 +1,25 @@
+```{=html}
+<div class="list quarto-listing-default">
+  <% for (const item of items) { %>
+
+  <div class="research-section">
+
+    <div class="research-section-image">
+      <% if (item.image) { %>
+        <img src="<%= item.image %>" alt="<%= item.title %>">
+      <% } %>
+    </div>
+
+    <div class="research-section-body">
+      <div class="research-section-heading"><%= item.heading || item.title %></div>
+      <p><%= item.blurb %></p>
+      <% if (item.pub_link) { %>
+        <a class="research-section-link" href="<%= item.pub_link %>">Related publications →</a>
+      <% } %>
+    </div>
+
+  </div>
+
+  <% } %>
+</div>
+```

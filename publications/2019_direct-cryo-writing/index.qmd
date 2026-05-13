@@ -1,0 +1,41 @@
+﻿---
+title: "Direct Cryo Writing of Aerogels via 3D Printing of Aligned Cellulose Nanocrystals Inspired by the Plant Cell Wall"
+date: 2019-04-19
+author:
+  - name: Doron Kam
+    orcid: 0000-0002-5119-965X
+    # affiliation: 
+  - name: Michael Chasnitsky
+    orcid: 0000-0002-6701-0911
+    # affiliation: 
+  - name: Chen Nowogrodski
+    orcid: 0009-0005-4189-5810
+    # affiliation: 
+  - name: Ido Braslavsky
+    orcid: 0000-0001-8985-8211
+    # affiliation: 
+  - name: Tiffany Abitbol
+    orcid: 0000-0001-9782-3860
+    # affiliation: 
+  - name: Shlomo Magdassi
+    orcid: 0000-0002-6794-0553 
+    # affiliation: 
+  - name: Oded Shoseyov
+    orcid: 0000-0003-3340-9921
+    # affiliation: 
+journ: "Colloids and Interfaces"
+year: 2019
+volume: 3
+issue: 2
+page: 46
+categories: ["cellulose nanocrystals", "aerogels", "3D printing", "extrusion", "freeze casting"]
+url_source: https://doi.org/10.3390/colloids3020046
+url_preprint: 
+doi: 10.3390/colloids3020046
+abstract: > 
+  Aerogel objects inspired by plant cell wall components and structures were fabricated using extrusion-based 3D printing at cryogenic temperatures. The printing process combines 3D printing with the alignment of rod-shaped nanoparticles through the freeze-casting of aqueous inks. We have named this method direct cryo writing ({DCW}) as it encompasses in a single processing step traditional directional freeze casting and the spatial ﬁdelity of 3D printing. {DCW} is demonstrated with inks that are composed of an aqueous mixture of cellulose nanocrystals ({CNCs}) and xyloglucan ({XG}), which are the major building blocks of plant cell walls. Rapid ﬁxation of the inks is achieved through tailored rheological properties and controlled directional freezing. Morphological evaluation revealed the role of ice crystal growth in the alignment of {CNCs} and {XG}. The structure of the aerogels changed from organized and tubular to disordered and ﬂakey pores with an increase in {XG} content. The internal structure of the printed objects mimics the structure of various wood species and can therefore be used to create wood-like structures via additive manufacturing technologies using only renewable wood-based materials.
+pub_number: 5
+image: featured.png
+
+
+---
