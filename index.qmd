@@ -1,6 +1,6 @@
 ---
 title: "Doron Kam's research group"
-description: "Light-enabled manufacturing of biological materials."
+description: "Light-enabled manufacturing of programmable materials."
 css: assets/home.css
 listing:
   # - id: recent-pubs

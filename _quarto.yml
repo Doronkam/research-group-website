@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Doron Kam Lab"
+  title: "Doron Kam's research group"
   site-url: https://doronkam.com
-  description: "Light-enabled manufacturing of biological materials. Doron Kam's research group at Tel-Hai University."
+  description: "Programmable materials. Doron Kam's research group at Tel-Hai University."
   page-navigation: true
   back-to-top-navigation: true
 

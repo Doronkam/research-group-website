@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://doronkam.com/team/kam_doron/index.html</loc>
-    <lastmod>2026-05-13T21:43:08.657Z</lastmod>
+    <loc>https://doronkam.com/team/postdoc/index.html</loc>
+    <lastmod>2026-05-13T14:09:39.598Z</lastmod>
   </url>
   <url>
-    <loc>https://doronkam.com/research.html</loc>
-    <lastmod>2026-05-13T16:42:29.429Z</lastmod>
+    <loc>https://doronkam.com/team/lab_manager/index.html</loc>
+    <lastmod>2026-05-13T14:09:14.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://doronkam.com/team/index.html</loc>
+    <lastmod>2026-05-13T14:06:55.459Z</lastmod>
+  </url>
+  <url>
+    <loc>https://doronkam.com/research-themes/Program chemistry with light/index.html</loc>
+    <lastmod>2026-05-13T16:41:24.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://doronkam.com/research-themes/Encode function in structure/index.html</loc>
+    <lastmod>2026-05-13T16:41:46.564Z</lastmod>
   </url>
   <url>
     <loc>https://doronkam.com/publications/2025_protein-only-dlp/index.html</loc>
@@ -42,7 +54,7 @@
   </url>
   <url>
     <loc>https://doronkam.com/index.html</loc>
-    <lastmod>2026-05-13T17:53:03.792Z</lastmod>
+    <lastmod>2026-05-13T22:30:05.179Z</lastmod>
   </url>
   <url>
     <loc>https://doronkam.com/contact.html</loc>
@@ -85,51 +97,19 @@
     <lastmod>2026-05-12T18:09:32.100Z</lastmod>
   </url>
   <url>
-    <loc>https://doronkam.com/team/index.html</loc>
-    <lastmod>2026-05-13T14:06:55.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/research-themes/dlp-bio/index.html</loc>
-    <lastmod>2026-05-12T18:03:11.589Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/research-themes/mpl-bio/index.html</loc>
-    <lastmod>2026-05-10T04:21:18.509Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/research-themes/dlp-food/index.html</loc>
-    <lastmod>2026-05-10T04:21:18.484Z</lastmod>
-  </url>
-  <url>
     <loc>https://doronkam.com/research-themes/Manufacture bioinspired systems/index.html</loc>
     <lastmod>2026-05-13T16:42:23.795Z</lastmod>
   </url>
   <url>
-    <loc>https://doronkam.com/research-themes/Encode function in structure/index.html</loc>
-    <lastmod>2026-05-13T16:41:46.564Z</lastmod>
+    <loc>https://doronkam.com/research.html</loc>
+    <lastmod>2026-05-13T16:42:29.429Z</lastmod>
   </url>
   <url>
-    <loc>https://doronkam.com/team/postdoc/index_postdoc.html</loc>
-    <lastmod>2026-05-12T18:22:38.703Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/team/lab_manager/index_Research Scientist.html</loc>
-    <lastmod>2026-02-27T18:35:49.082Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/team/postdoc/index.html</loc>
-    <lastmod>2026-05-13T14:09:39.598Z</lastmod>
+    <loc>https://doronkam.com/team/kam_doron/index.html</loc>
+    <lastmod>2026-05-13T21:43:08.657Z</lastmod>
   </url>
   <url>
     <loc>https://doronkam.com/team/phd/index.html</loc>
     <lastmod>2026-05-13T14:09:25.932Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/team/lab_manager/index.html</loc>
-    <lastmod>2026-05-13T14:09:14.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://doronkam.com/research-themes/Program chemistry with light/index.html</loc>
-    <lastmod>2026-05-13T16:41:24.415Z</lastmod>
   </url>
 </urlset>
