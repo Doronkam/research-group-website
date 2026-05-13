@@ -6,6 +6,7 @@ website:
   title: "Doron Kam's research group"
   site-url: https://doronkam.com
   description: "Programmable materials. Doron Kam's research group at Tel-Hai University."
+  google-analytics: "G-YWDMT94T6N"
   page-navigation: true
   back-to-top-navigation: true
 
